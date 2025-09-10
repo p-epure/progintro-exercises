@@ -1,3 +1,0 @@
-me=paul again
-olddata
-age=18
