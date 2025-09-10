@@ -1,3 +1,3 @@
 # exercise readme
 
-## my shit
+## tests n whatever
