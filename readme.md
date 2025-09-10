@@ -1,5 +1,10 @@
-# exercise readme
+# My Exercises
 
-[see my website fr](https://epure.dk)
+Useful links:
+- [Githubs support for Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Is it Christmas?](https://isitchristmas.com)
 
-## tests n whatever
+## Formatting Examples:
+
+1. *Italic* text
+2. **Bold** Text.
